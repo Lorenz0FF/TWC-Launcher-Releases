@@ -1,4 +1,4 @@
-# The Walking Craft Launcher — Releases
+# The Walking Craft Launcher Releases
 
 Ce repo contient uniquement les binaires de release du launcher **The Walking Craft** (Windows / macOS / Linux). Le code source est privé.
 

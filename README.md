@@ -4,7 +4,7 @@ Ce repo contient uniquement les binaires de release du launcher **The Walking Cr
 
 ## Téléchargement
 
-Va sur la page **[Releases](https://github.com/Lorenz0FF/TWC-Launcher-Releases/releases/latest)** et choisis le fichier correspondant à ton OS :
+Allez sur la page **[Releases](https://github.com/Lorenz0FF/TWC-Launcher-Releases/releases/latest)** et choisis le fichier correspondant à ton OS :
 
 | OS | Fichier |
 |---|---|
